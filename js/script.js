@@ -1,6 +1,6 @@
 console.log("script.js loaded");
 
-const API_KEY = "https://api.giphy.com/v1/gifs/search?api_key=YOUR_API_KEY&q=dogs&limit=10&rating=g" 
+const API_KEY = "nQfWgL5NgVTAdzg7x0nuRt21vMbXsVn3" 
 const BASE_URL = "https://api.giphy.com/v1/gifs/search";
 
 
